@@ -8,7 +8,7 @@ class View_load {
     public function __construct(){
         $this->ci = &get_instance();
     }
-
+    //view
     public function view($view, $data)
     {
         $this->ci->load->view('header', $data);

@@ -1,6 +1,6 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
-// product model
+// product model zzzz hgfgf tgrt
 class Products_model extends CI_Model {
 
     public function get_products()
